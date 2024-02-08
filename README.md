@@ -1,7 +1,7 @@
 # Enhancing-Customer-Segmentation-for-Improved-Marketing-Strategies-on-Swiggy
-SWIGGY DATA ANALYSIS
+#SWIGGY DATA ANALYSIS
 
-# Swiggy High-Value Order Prediction
+
 
 ## Overview
 
