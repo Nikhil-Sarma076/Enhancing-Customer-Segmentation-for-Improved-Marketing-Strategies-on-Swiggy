@@ -28,7 +28,7 @@ This research not only demonstrates the effective application of various machine
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/swiggy-high-value-order-prediction.git
+git clone https://github.com/Nikhil-Sarma076/swiggy-high-value-order-prediction.git
 cd swiggy-high-value-order-prediction
 ```
 
